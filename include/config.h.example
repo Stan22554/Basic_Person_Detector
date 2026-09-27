@@ -1,0 +1,5 @@
+// Copy to include/config.h to customize. Leave station credentials empty to use AP only.
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define AP_SSID "LD2410C-Presence"
+#define AP_PASSWORD "presence" // At least 8 characters
